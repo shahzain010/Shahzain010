@@ -8,7 +8,7 @@
 <h2>👨‍💻 FrontEnd projects:</h2>
 
 - <b>Amazon Website clone</b>
-  - [Amazone clone](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Amazone clone](https://github.com/shahzain010/Amazonclone)
 - <b>Responsive Mircrosoft Website clone using Tailwind CSS </b>
   - [Responsive Amazon Website](https://github.com/shahzain010/MicrosoftClone) 
 
